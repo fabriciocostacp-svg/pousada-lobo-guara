@@ -10,6 +10,10 @@ O projeto foi criado com foco em **presença digital, SEO local e conversão pel
 
 🌐 **Projeto online:** https://pousadaloboguarabroa.com.br
 
+### 🖥️ Tela inicial do site
+
+![Tela inicial do site da Pousada Lobo Guará](docs/preview.jpg)
+
 ## ✨ Funcionalidades
 
 - Layout responsivo para celular e computador
